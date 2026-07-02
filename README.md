@@ -17,7 +17,7 @@ Create a .lua file in ~/.config/nvim/lua/plugins/ and apply below content
 ```lua
 return {
   {
-    "1lazyl/virt-column.nvim",
+    "lazyl-dev/virt-column.nvim",
     ---@module "virt-column"
     ---@type virtcolumn.config
     opts = {
